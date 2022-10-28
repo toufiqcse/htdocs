@@ -1,0 +1,9 @@
+.information_section {
+    width: 310px;
+    height: 450px;
+    border: 1px solid black;
+    box-sizing: border-box;
+    padding: 10px;
+    margin: 10px;
+    float: left;
+}

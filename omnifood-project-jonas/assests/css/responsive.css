@@ -1,0 +1,29 @@
+@media (max-width: 75em) {
+  .hero {
+    max-width: 75rem;
+  }
+  .heading-primary {
+    font-size: 2rem;
+  }
+  .testomonial-gallery {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  img#none {
+    display: none;
+  }
+  .heading-secondary {
+    font-size: 2rem;
+  }
+  .heading-tertiary {
+    font-size: 1.1rem;
+  }
+  .heading {
+    padding: 0 2.5rem;
+  }
+  .main-nav-list {
+    gap: 1.2rem;
+  }
+}
+/*================================== below 1200px tablet landscape=======  */
+@media (max-width: 74.8em) {
+}
